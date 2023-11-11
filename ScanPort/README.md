@@ -24,4 +24,4 @@
 ```sh
 python ./main.py -p 120-140 -sU -a ru.wikipedia.org 
 ```
-![photo](https://ltdfoto.ru/images/2023/11/05/imagef87767382916b949.png)
+![photo](https://ltdfoto.ru/images/2023/11/11/imageda676099cd0e942b.png)
