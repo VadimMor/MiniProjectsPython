@@ -26,7 +26,7 @@
 Выберите действие:
 ```
 
-#### Цorking with an ssh connection
+#### Working with an ssh connection
 
 ```
 0) 192.168.1.30
